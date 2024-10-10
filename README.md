@@ -9,6 +9,8 @@ I am in love with fashion
 
 A2 Spanish and English
 
+SKILLS
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!--
