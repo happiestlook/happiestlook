@@ -4,7 +4,9 @@ I'm a ukrainian girl, graduated as a psycology and now live in Spain and learn A
 🚀 About Me
 
 I love slow life and healthe food
+
 I am in love with fashion
+
 A2 Spanish and English
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
