@@ -2,6 +2,7 @@
 I'm a ukrainian girl, graduated as a psycology and now live in Spain and learn AWS/reStart - development Bootcamp with Factoria F5 (850 hours.)
 
 🚀 About Me
+
 I love slow life and healthe food
 I am in love with fashion
 A2 Spanish and English
