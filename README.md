@@ -7,6 +7,8 @@ I love slow life and healthe food
 I am in love with fashion
 A2 Spanish and English
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **happiestlook/happiestlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
